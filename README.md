@@ -1,1 +1,2 @@
-# security-tech
+# Security Technologies
+The Security Technologies Special Interest Group
