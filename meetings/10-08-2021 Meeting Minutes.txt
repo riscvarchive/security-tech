@@ -1,0 +1,10 @@
+Minutes
+
+Cadence - adjust naturally depending on topics -- start with biweekly
+SIG can have non RISC-V foundation members - how to handle it?
+Prepare a vision of the SIG
+
+next meeting on 24/08/2021 - CHERI overview
+
+
+
